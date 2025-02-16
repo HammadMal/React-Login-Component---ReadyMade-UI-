@@ -33,7 +33,7 @@
   box-sizing: border-box;
 }
 
-/* Reset styles for full-page gradient */
+Reset styles for full-page gradient
 html, body, #root {
   margin: 0;
   padding: 0;
@@ -42,7 +42,7 @@ html, body, #root {
   background: white;
   background-repeat: no-repeat;
   background-attachment: fixed; /* Keeps gradient static during scroll */
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; /* Optional: Set a global font */
+  font-family: 'Inter';
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
